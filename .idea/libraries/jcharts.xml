@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jcharts" type="repository">
+    <properties maven-id="jcharts:jcharts:0.7.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jcharts/jcharts/0.7.5/jcharts-0.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
