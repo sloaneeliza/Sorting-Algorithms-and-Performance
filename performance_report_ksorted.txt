@@ -1,0 +1,32 @@
+Sorting Algorithm -BubbleSort
+Random Data:
+Sorted 100 elements in 0.0661ms (avg)
+Sorted 500 elements in 1.0289ms (avg)
+Sorted 1000 elements in 0.6023ms (avg)
+Sorted 2000 elements in 1.9812ms (avg)
+Sorted 5000 elements in 11.2995ms (avg)
+Sorted 10000 elements in 61.3412ms (avg)
+Sorted 20000 elements in 335.9610ms (avg)
+Sorted 75000 elements in 6235.2763ms (avg)
+Sorted 150000 elements in 26208.6575ms (avg)
+
+10-sorted Data:
+Sorted 100 elements in 0.0083ms (avg)
+Sorted 500 elements in 0.1029ms (avg)
+Sorted 1000 elements in 0.3119ms (avg)
+Sorted 2000 elements in 0.9703ms (avg)
+Sorted 5000 elements in 5.9835ms (avg)
+Sorted 10000 elements in 29.1290ms (avg)
+Sorted 20000 elements in 149.8040ms (avg)
+Sorted 75000 elements in 2521.0670ms (avg)
+Sorted 150000 elements in 11041.9963ms (avg)
+
+Sorting Algorithm -QuickSort
+Random Data:
+Sorted 100 elements in 0.0534ms (avg)
+Sorted 500 elements in 0.0347ms (avg)
+Sorted 1000 elements in 0.0734ms (avg)
+Sorted 2000 elements in 0.0843ms (avg)
+Sorted 5000 elements in 0.2565ms (avg)
+Sorted 10000 elements in 0.5076ms (avg)
+Sorted 20000 elements in 1.0688ms (avg)
